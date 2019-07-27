@@ -1,0 +1,17 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "indent": ["error", 4],
+        "arrow-parens": [2, "as-needed"],
+        "no-underscore-dangle": "off",
+        "no-console": "off",
+        "func-names": "off",
+        "no-param-reassign": "off",
+        "import/no-extraneous-dependencies": [2, { "devDependencies": true }]
+    },
+    "env": {
+        "commonjs": true,
+        "node": true,
+        "mocha": true
+    }
+}
