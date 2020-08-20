@@ -10,7 +10,7 @@
   "author": "Ryan Mulka",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "eslint": "^5.16.0",
     "express": "^4.17.1",
     "express-jwt": "^5.3.1",
